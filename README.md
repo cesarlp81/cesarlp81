@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-[My Dino](/github/Image2.jpeg)
+[My Dino](/C:/sers/cesar/OneDrive/Área de Trabalho/github/Image2.jpeg)
 
 
 [link Meu linkedIn](https://www.linkedin.com/in/c%C3%A9sarpedroso/)
