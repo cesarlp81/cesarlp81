@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 
-[link Meu linkedIn](https://www.linkedin.com/in/c%C3%A9sarpedroso/)
+[Meu linkedIn](https://www.linkedin.com/in/c%C3%A9sarpedroso/)
 
 
 
