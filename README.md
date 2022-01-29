@@ -2,8 +2,6 @@
 
 💻 No momento Estudando React
 
-[Meu linkedIn](https://www.linkedin.com/in/c%C3%A9sarpedroso/)
-
 ##
 
 <div align="center">
