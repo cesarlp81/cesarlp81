@@ -1,6 +1,6 @@
 <h1> Olá, meu nome é Cesar 🤓❗❕ </h1>
 
-💻 No momento Estudando React
+💻 No momento Estudando HTML e CSS
 
 ##
 
